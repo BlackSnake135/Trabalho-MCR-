@@ -15,3 +15,5 @@ As bibliotecas utilizadas poderam ser instaladas em "Bibliotecas"
 Os leds são acionados pelo MQTT no aplicativo MQTT Dash ao mesmo tempo que é exibido o status do led.
 Junto com o status é exibido a leitura do sensor DHT22
 Também sendo possível o acionamento de um led(ventilador na simulação) pelo PWM
+
+Projeto realizado por Gabriel Santos e João Marcio.
