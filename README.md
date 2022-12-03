@@ -16,4 +16,7 @@ Os leds são acionados pelo MQTT no aplicativo MQTT Dash ao mesmo tempo que é e
 Junto com o status é exibido a leitura do sensor DHT22
 Também sendo possível o acionamento de um led(ventilador na simulação) pelo PWM
 
+## Simulação
+link no simulador wokwi:https://wokwi.com/projects/350049905232839250
+
 Projeto realizado por Gabriel Santos e João Marcio.
